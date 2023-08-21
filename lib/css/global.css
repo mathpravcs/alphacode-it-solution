@@ -1,0 +1,15 @@
+.logo {
+    width: 50px;
+}
+
+
+.rodape {
+    width: 100px;
+    background-color:#068ed0;
+}
+
+.footer{
+    margin-top: 100%;
+    background-color:#068ed0;
+    position: static;
+}
